@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **canastraleonard123@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1zliv8ZmxQdu3dGcXNloMODRvRHbJ8aQhL_RbA-zDQLA/edit?usp=sharing](https://docs.google.com/document/d/1zliv8ZmxQdu3dGcXNloMODRvRHbJ8aQhL_RbA-zDQLA/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1zliv8ZmxQdu3dGcXNloMODRvRHbJ8aQhL_RbA-zDQLA/edit?usp=sharing)
 
 - ⚡ Fun fact **I love to talk about any and all things DnD, MTG, Gaming, Marvel, Basketball, etc.**
 
