@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [A gamified todo list](https://github.com/sanzous/Todo-List-with-a-Twist-)
 
-- 👨‍💻 All of my projects are available at [leonardcanastra.netlify.app](leonardcanastra.netlify.app)
+- 👨‍💻 All of my projects are available at [my portfolio](https://leonardcanastra.netlify.app/)
 
 - 💬 Ask me about **HTML , CSS , JavaScript, React ,Sass, Tailwind, Bootstrap**
 
