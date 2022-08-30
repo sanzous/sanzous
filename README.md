@@ -3,21 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/lcanastra" target="blank"><img src="https://img.shields.io/twitter/follow/lcanastra?logo=twitter&style=for-the-badge" alt="lcanastra" /></a> </p>
 
-- 🔭 I’m currently working on [A Random Anime Generator](https://github.com/sanzous/Random-Anime-App)
+I am a Full Stack Developer focusing on React to develop web apps that can provide value to the world. I have been learning and creating for the past 3 years first as a hobby then as a sidejob and now as part of 100Devs. I love creating new things and learning new technologies to use in creating these new things. I have recently contributed to the Tech Road Map project whose aim is to provide resources for people trying to break into Tech in different avenues. I am also currently learning Elm to widen my options in the development of new web apps and sites.
 
-- 🌱 I’m currently learning **Elm , Typescript**
+My current biggest project at the moment is a social platforming app to connect people together who want to play online games. I am working on this app with a team of 5 fellow software engineers. We are using the MERN stack to develop this app. 
 
-- 👯 I’m looking to collaborate on [A gamified todo list](https://github.com/sanzous/Todo-List-with-a-Twist-)
-
-- 👨‍💻 All of my projects are available at [my portfolio](https://leonardcanastra.netlify.app/)
-
-- 💬 Ask me about **HTML , CSS , JavaScript, React ,Sass, Tailwind, Bootstrap**
-
-- 📫 How to reach me **canastraleonard123@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1zliv8ZmxQdu3dGcXNloMODRvRHbJ8aQhL_RbA-zDQLA/edit?usp=sharing)
-
-- ⚡ Fun fact **I love to talk about any and all things DnD, MTG, Gaming, Marvel, Basketball, etc.**
+I am also currently looking for new opportunities especially remote work. If you know of any please feel free to send me a message on LinkedIn or to my personal email.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
