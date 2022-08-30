@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonard Canastra</h1>
-<h3 align="center">A passionate Fullstack Developer. Also a father of 2. An enjoyer of Tabletop and Trading Card games</h3>
+<h3 align="center">A passionate Fullstack Developer,a father of 2, An enjoyer of Tabletop and Trading Card games</h3>
 
 <p align="left"> <a href="https://twitter.com/lcanastra" target="blank"><img src="https://img.shields.io/twitter/follow/lcanastra?logo=twitter&style=for-the-badge" alt="lcanastra" /></a> </p>
 
